@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/MatterWaveAI/.github/blob/HEAD/SECURITY.md
+    about: Privately, never in an issue. Email security@matterwave.ai or use private vulnerability reporting.
+  - name: Documentation
+    url: https://docs.matterwave.ai
+    about: Guides, the API reference and the downloads.
