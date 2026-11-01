@@ -1,4 +1,4 @@
-﻿# MatterWave ai
+﻿# MatterWave AI
 
 **Models that can stand the test of space and time.**
 
@@ -12,6 +12,7 @@
 |---|---|
 | [ia_modules](https://github.com/MatterWaveAI/ia_modules) | Workflow engine for AI apps |
 | [nexusql](https://github.com/MatterWaveAI/nexusql) | One database layer for every SQL backend |
+| [synthdoc](https://github.com/MatterWaveAI/synthdoc) | Synthetic documents with pixel-accurate entity annotations, for training NER, OCR and layout models |
 | [python-sdk](https://github.com/MatterWaveAI/python-sdk) | Python SDK for the MatterWave API |
 | [typescript-sdk](https://github.com/MatterWaveAI/typescript-sdk) | TypeScript SDK for the MatterWave API |
 | [tui](https://github.com/MatterWaveAI/tui) | Terminal client |
