@@ -4,12 +4,7 @@
 
 Nature doesn't compute with brute-force matrices &mdash; it computes with phase, rotation, and conservation laws. Our **Geometric Rotation Transformer (GRT)** represents language as phase and amplitude, transformed through butterfly cascades of Clifford-coupled Givens rotations rather than dense weight grids.
 
-- **[matterwave.ai](https://matterwave.ai)** &mdash; Research, architecture notes & benchmarks
-- **[GRT Technical Whitepaper (PDF)](https://matterwave.ai/static/GRT_Whitepaper.pdf)** &mdash; Full 25-page mathematical specification & CUDA kernel architecture
-- **[GRT Interactive Research Note](https://matterwave.ai/grt)** &mdash; Visual walkthrough of polar pairs, butterfly cascades & parameter math
-- **[GRT-30M](https://matterwave.ai/grt-30m)** & **[GRT-30M-Embedding](https://matterwave.ai/grt-30m-embedding)** &mdash; Open-weight checkpoints & circular phase pooling benchmarks
-- **[Hugging Face (`MatterWaveAI`)](https://huggingface.co/MatterWaveAI)** &mdash; Open model weights (`grt-30m`, `grt-30m-embedding`, GGUF & Safetensors)
-- **[app.matterwave.ai](https://app.matterwave.ai)** & **[docs.matterwave.ai](https://docs.matterwave.ai)** &mdash; Hosted platform, API docs & client downloads
+**[Website](https://matterwave.ai)** &middot; **[GRT Architecture Note](https://matterwave.ai/grt)** &middot; **[Whitepaper (PDF)](https://matterwave.ai/static/GRT_Whitepaper.pdf)** &middot; **[GRT-30M Benchmarks](https://matterwave.ai/grt-30m)** &middot; **[Hugging Face](https://huggingface.co/MatterWaveAI)** &middot; **[Platform & Docs](https://docs.matterwave.ai)**
 
 ---
 
